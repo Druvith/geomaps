@@ -1,2 +1,2 @@
 # geomaps
-Maps on population and volanic eruptive places.
+Maps on population and volcaniceruptive places.
